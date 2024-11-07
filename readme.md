@@ -1,3 +1,6 @@
+# NOTICE
+This is still a work in progress. You can register keybinds using CFX syntax and it will load and they will work, however, rebinding is currently not implemented, and is being worked on.
+
 # twiliKeybinds
 
 Central script for managing keybinds
