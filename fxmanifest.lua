@@ -5,7 +5,7 @@ rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aw
 
 author 'Elena Winters'
 description 'Central keybinds for all my projects. Also implements a keybind system for RedM.'
-version '23.7.25'
+version '24.11.6'
 
 dependencies {
     'twiliCore'
